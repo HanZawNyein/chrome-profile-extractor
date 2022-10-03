@@ -1,0 +1,5 @@
+venv
+.idea
+Cookies.db
+chrome_profile_extractor.egg-info
+dist
